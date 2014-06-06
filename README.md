@@ -15,7 +15,7 @@ DigiShield
 Coin Maturity: 75 blocks
 Confirms: 6
 
-v1.0.2.0 Release
+v1.0.3.0 Release
 
 License
 -------
